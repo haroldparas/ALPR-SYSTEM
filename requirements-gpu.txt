@@ -1,0 +1,13 @@
+tensorflow-gpu==2.3.0
+opencv-python==4.1.1.26
+lxml
+tqdm
+absl-py
+matplotlib
+easydict
+pillow
+pytesseract
+flask-bcrypt
+flask
+flask_sqlalchemy
+flask_login
